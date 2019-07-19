@@ -1,0 +1,22 @@
+{
+  "name": "http-params-filter",
+  "version": "1.0.0",
+  "description": "Function to filter the credential value contained in the object such as http parameter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kinosuke01/http-params-filter.git"
+  },
+  "author": "kinosuke01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kinosuke01/http-params-filter/issues"
+  },
+  "homepage": "https://github.com/kinosuke01/http-params-filter#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
